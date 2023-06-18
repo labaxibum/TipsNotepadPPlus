@@ -11,3 +11,8 @@ https://superuser.com/questions/542719/how-to-find-and-replace-new-line-in-notep
 # To replace the start of line and the end of line using regular expression (REGEX) 
 https://veducate.co.uk/notepad-plus-plus-add-characters/
 
+# Search with AND condition 
+https://stackoverflow.com/questions/21100868/notepad-search-with-a-logical-and
+
+
+
