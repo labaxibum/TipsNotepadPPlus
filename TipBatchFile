@@ -1,0 +1,5 @@
++++ Delete file for a specific day
+' forfiles /p "PATH" /s /d -15 /c "cmd /c del @file : date >= 15 days >NUL" '
+
+
+PATH is the path to the folder that need to be deleted
