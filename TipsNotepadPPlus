@@ -14,5 +14,11 @@ https://veducate.co.uk/notepad-plus-plus-add-characters/
 # Search with AND condition 
 https://stackoverflow.com/questions/21100868/notepad-search-with-a-logical-and
 
-
-
+# Search a word next to finding character
+```
+${FindingCharacter}([a-z]) (E.g: _([a-z])
+```
+# Change to Uppercase
+```
+\U$1
+```
